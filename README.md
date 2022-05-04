@@ -42,10 +42,12 @@
     </div>
    
 </div>
-![Snake animation](https://github.com/Jonathasds/Jonathasds/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working cmo autonomo;
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+            
+    
+    
+- 🔭 Atualmente estou a procura de uma oportudade;
 - 🌱 Foco em Front-end, html5, css, js e react;
 
 - 😄 Pronouns: ele/dele;
