@@ -40,10 +40,10 @@
                 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
                 target="_blank"></a>
     </div>
-   ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 ![Snake animation](https://github.com/Jonathasds/Jonathasds/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working cmo autonomo;
 - 🌱 Foco em Front-end, html5, css, js e react;
