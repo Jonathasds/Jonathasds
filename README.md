@@ -47,7 +47,7 @@
             
     
     
-- 🔭 Atualmente estou a procura de uma oportudade;
+- 🔭 Atualmente estou a procura de uma oportunidade;
 - 🌱 Foco em Front-end, html5, css, js e react;
 
 - 😄 Pronouns: ele/dele;
