@@ -5,9 +5,9 @@
 <div align="center">
     <a href="https://github.com/Jonathasds">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=Jonathasds&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+            src="https://github-readme-status.vercel.app/api?username=Jonathasds&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathasds&layout=compact&langs_count=7&theme=dracula" />
+            src="https://github-readme-status.vercel.app/api/top-langs/?username=Jonathasds&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style="display: inline_block; display: flex; justify-content: center;padding-top: 30px;"><br>
     <img align="center" alt="JD-Js" height="30" width="40"
