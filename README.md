@@ -47,7 +47,10 @@
             
     
     
-- 🔭 Atualmente estou a procura de uma oportunidade;
-- 🌱 Foco em Front-end, html5, css, js e react;
+- 🔭 Atualmente estou a procura de estágio.
+- 🌱 sou um desenvolvedor front-end.
+    ### Tecnologia : html5, css3, bootstrap, Javascript  e estou aperfeiçoando o react.js.
+    ### Me formo em dezembro de 2022 EM ANÁLISE E DESENVOLVIMENTOS DE SOFTWARE (ADS), NA UNIVERSIDADE CRUZEIRO DO SUL.
+   
 
     Bebam Agua!!!
