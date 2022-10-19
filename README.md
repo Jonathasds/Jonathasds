@@ -1,7 +1,7 @@
 <div style="align-items: center; color: red; display: flex; flex-direction: column; justify-content: center;">
     <h1>Olá!! Me chamo Jônathas, vamos conhecer um pouco da minha trajetória?</h1>
     <h3>Seja bem vindo ao meu git!</h3>
-    <h2>Skills:</h2> <p>HTML5, CSS3, JS, BOOTSTRAP, TAILWIND, REACT.JS, MONGODB, MYSQL...</p>
+    
     
 </div>
 <div align="center">
@@ -50,8 +50,8 @@
     
     
 - 🔭 Atualmente estou a procura de estágio.
-- 🌱 sou um desenvolvedor front-end.
-    ### Tecnologia : html5, css3, bootstrap, Javascript  e estou aperfeiçoando o react.js.
+
+    <h2>Skills:</h2> <p>HTML5, CSS3, JS, BOOTSTRAP, TAILWIND, REACT.JS, MONGODB, MYSQL...</p>
     ### Me formo em dezembro de 2022 EM ANÁLISE E DESENVOLVIMENTOS DE SOFTWARE (ADS), NA UNIVERSIDADE CRUZEIRO DO SUL.
    
 
