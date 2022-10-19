@@ -1,8 +1,8 @@
 <div style="align-items: center; color: red; display: flex; flex-direction: column; justify-content: center;">
     <h1>Olá!! Me chamo Jônathas, vamos conhecer um pouco da minha trajetória?</h1>
     <h3>Seja bem vindo ao meu git!</h3>
-    <h2>Skills</h2>
-    <p>HTML5, CSS3, JS, BOOTSTRAP, TAILWIND, REACT.JS, MONGODB, MYSQL...</p>
+    <h2>Skills:</h2> <p>HTML5, CSS3, JS, BOOTSTRAP, TAILWIND, REACT.JS, MONGODB, MYSQL...</p>
+    
 </div>
 <div align="center">
     <a href="https://github.com/Jonathasds">
