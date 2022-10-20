@@ -1,6 +1,7 @@
 <div style="align-items: center; color: red; display: flex; flex-direction: column; justify-content: center;">
     
-    <h1>Olá!!</br> Me chamo Jônathas Delgado desenvolvedor web</h1>
+    <h1>Olá!!</h1>
+    <p> Me chamo Jônathas Delgado e sou um  desenvolvedor web</p>
     
 </div>
 <div align="center">
