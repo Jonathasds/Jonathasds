@@ -1,7 +1,6 @@
 <div style="align-items: center; color: red; display: flex; flex-direction: column; justify-content: center;">
     
-    <img height="180em"
-            src="![Linkedin banner geométrico azul  e preto (1)](https://user-images.githubusercontent.com/83735539/196827919-44341a2e-e438-4a99-b4ce-b16a9fce25a0.png)"/>
+    <img src="![Linkedin banner geométrico azul  e preto (1)](https://user-images.githubusercontent.com/83735539/196827919-44341a2e-e438-4a99-b4ce-b16a9fce25a0.png)"/>
     
 </div>
 <div align="center">
