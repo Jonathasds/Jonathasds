@@ -1,7 +1,7 @@
 <div style="align-items: center; color: red; display: flex; flex-direction: column; justify-content: center;">
-    <h1>Olá!! Me chamo Jônathas, vamos conhecer um pouco da minha trajetória?</h1>
-    <h3>Seja bem vindo ao meu git!</h3>
     
+    <img height="180em"
+            src=""/>
     
 </div>
 <div align="center">
